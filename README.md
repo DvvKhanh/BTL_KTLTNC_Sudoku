@@ -1,1 +1,1 @@
-# BTL_KTLTNC_Sudoku
+# Bài tiểu luận Kỹ thuật lập trình nâng cao
